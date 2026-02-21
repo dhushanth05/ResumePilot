@@ -1,11 +1,11 @@
-# ResumeIQ – Intelligent Resume Analysis Platform
+# ResumePilot – Intelligent Resume Analysis Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Next.js 14](https://img.shields.io/badge/next.js-14-black)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/fastapi-0.111+-green)](https://fastapi.tiangolo.com/)
 
-**ResumeIQ** is an AI-powered SaaS platform that analyzes resumes against job descriptions to provide comprehensive insights including ATS scoring, skill gap analysis, keyword matching, and actionable improvement suggestions.
+**ResumePilot** is an AI-powered SaaS platform that analyzes resumes against job descriptions to provide comprehensive insights including ATS scoring, skill gap analysis, keyword matching, and actionable improvement suggestions.
 
 ## 🚀 Live Demo
 
@@ -91,8 +91,8 @@
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/resumeiq.git
-cd resumeiq
+git clone https://github.com/dhushanth05/ResumePilot.git
+cd ResumePilot
 ```
 
 #### 2. Backend Setup
@@ -155,7 +155,7 @@ POSTGRES_HOST=localhost
 POSTGRES_PORT=5432
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=your-password
-POSTGRES_DB=resumeiq
+POSTGRES_DB=ResumePilot
 
 # Frontend
 FRONTEND_ORIGIN=http://localhost:3000
@@ -176,7 +176,7 @@ REDIS_URL=redis://localhost:6379
 NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api/v1
 
 # Admin Panel
-ADMIN_EMAIL=admin@resumeiq.com
+ADMIN_EMAIL=admin@ResumePilot.com
 ADMIN_PASSWORD=your-admin-password
 ADMIN_SESSION_SECRET=your-session-secret-key
 ADMIN_API_KEY=your-admin-api-key-here
@@ -208,7 +208,7 @@ ADMIN_API_KEY=your-admin-api-key-here
 ## 📁 Project Structure
 
 ```
-resumeiq/
+ResumePilot/
 ├── frontend/                 # Next.js frontend application
 │   ├── app/                 # App router pages and layouts
 │   ├── components/          # Reusable UI components
@@ -232,7 +232,7 @@ resumeiq/
 ## 🖥 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=ResumeIQ+Dashboard)
+![Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=ResumePilot+Dashboard)
 *Main analytics dashboard with resume insights and metrics*
 
 ### Resume Analysis
@@ -288,11 +288,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@resumeiq.com)
-- **Website**: [https://resumeiq.com](https://resumeiq.com)
-- **Documentation**: [https://docs.resumeiq.com](https://docs.resumeiq.com)
-- **Support**: [support@resumeiq.com](mailto:support@resumeiq.com)
-
+- **Project Maintainer**: Dhushanth S
+- **GitHub**: https://github.com/dhushanth05
+- **Project Repository**: https://github.com/dhushanth05/ResumePilot
 ---
 
 **ResumePilot** - Transform your career with AI-powered resume intelligence.
