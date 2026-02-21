@@ -231,17 +231,26 @@ ResumePilot/
 
 ## 🖥 Screenshots
 
+### Landing Page
+![Landing](screenshots/landing.png)
+
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/1e293b/ffffff?text=ResumePilot+Dashboard)
-*Main analytics dashboard with resume insights and metrics*
+![Dashboard](screenshots/dashboard.png)
+
+### Resume Management
+![Resumes](screenshots/resumes.png)
+
+### Job Storage
+![Jobs](screenshots/jobs.png)
 
 ### Resume Analysis
-![Analysis](https://via.placeholder.com/800x400/1e293b/ffffff?text=Resume+Analysis+Results)
-*Detailed ATS scoring and skill gap analysis*
+![Analysis](screenshots/analysis.png)
 
-### Comparison View
-![Comparison](https://via.placeholder.com/800x400/1e293b/ffffff?text=Resume+Comparison)
-*Side-by-side resume comparison feature*
+### Resume Comparison
+![Comparison](screenshots/comparison.png)
+
+### Profile Management
+![Profile](screenshots/profile.png)
 
 ## 🚀 Future Improvements
 
